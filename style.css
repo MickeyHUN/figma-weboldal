@@ -1,0 +1,112 @@
+body{
+    background-color: rgb(	253, 245, 223);
+}
+#fomenu{
+    background-color: rgb(	253, 245, 223);
+    height: 6em;
+    border:0.5em black solid;
+}
+
+#no{
+    background-color: rgb(	253, 245, 223);
+    border-left: solid black 0.3em;
+    border-right: solid black 0.3em;
+    height: 6em;
+}
+#ferfi{
+    background-color: rgb(	253, 245, 223);
+    border-left: solid black 0.3em;
+    border-right: solid black 0.3em;
+    height: 6em;
+}
+#marka{
+    background-color: rgb(	253, 245, 223);
+    border: solid black 0.1em;
+    height: 2em;
+    text-align: center;
+    font-size: 3em;
+    font-family: "Ribeye Marrow";
+    font-weight: bolder;
+     
+}
+#nohatter{
+    background-color: #F92C85;
+    border: solid black 0.1em;
+    height: 2em;
+    text-align: center;
+    font-size: 3em;
+    font-family: "Ribeye Marrow";
+    font-weight: bolder;
+}
+
+#ferfihatter{
+    background-color: #5EBEC4;
+    border: solid black 0.1em;
+    height: 2em;
+    text-align: center;
+    font-size: 3em;
+    font-family: "Ribeye Marrow";
+    font-weight: bolder;
+    
+}
+#kereses{
+    border:solid  black;
+    border-radius: 20px;
+    font-family:"Righteous";
+}
+.ize{
+    background-color: #5EBEC4;
+    border: solid black;
+    border-radius: 10px;
+    font-size: 40px;
+    font-weight: bold;
+    font-family:"Righteous";
+    padding: inherit;
+}
+.ize2{
+    background-color: #F92C85;
+    border: solid black;
+    border-radius: 10px;
+    font-size: 40px;
+    font-weight: bold;
+    font-family:"Righteous";
+    padding: inherit;
+}
+.ures{
+    background-color: rgb(	253, 245, 223);
+}
+#nyelv{
+    margin-left: 35em;
+}
+#fhat{
+    background-color: white;
+    border: #5EBEC4 solid ;
+    border-radius: 0.6em;
+    height: 5.8em;
+    width: 5.8em;
+    font-weight: bolder;
+    text-align: center;
+}
+#nhat{
+    background-color: white;
+    border:#F92C85 solid ;
+    border-radius: 0.6em;
+    height: 5.8em;
+    width: 5.8em;
+    font-weight: bolder;
+    text-align: center; 
+}
+#noalso{
+    background-color: rgb(	253, 245, 223);
+    border-left: solid black 0.3em;
+    border-right: solid black 0.3em;
+    height: 0sem;
+    border-bottom: solid black 0.3em;
+}
+#ferfialso{
+    background-color: rgb(	253, 245, 223);
+    border-left: solid black 0.3em;
+    border-right: solid black 0.3em;
+    border-bottom: solid black 0.3em; 
+    height: 6em;
+}
